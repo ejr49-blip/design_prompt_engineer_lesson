@@ -47,8 +47,28 @@ If you cannot define it in one sentence, you do not know it yet.
 ## PINNED: CONCEPT MAP
 
 ```
-Source: AI-generated via Prompt Pack > Concept Map prompt.
-Paste the BEST output. Delete everything else.
+Bauhaus (1919–1933)
+→ Focus on unifying art, craft, and technology
+→ Emphasis on function over ornament
+→ Use of geometric forms and simplified typography
+→ Foundation for modernist design thinking
+
+Swiss Style (1950s–1970s)
+→ Systematizes modernist ideas into formal rules
+→ Grid systems as organizing principle
+→ Sans-serif typography and asymmetrical layouts
+→ Objective, neutral visual communication
+
+New Wave Typography (1970s–1980s)
+→ Reaction against Swiss Style rigidity
+→ Breaks grid systems intentionally
+→ Typography becomes expressive and layered
+→ Aligns with postmodern ideas and cultural experimentation
+
+Relationship Between Movements
+Bauhaus introduces modernist principles →
+Swiss Style formalizes them into strict systems →
+New Wave challenges the idea that neutrality and order are always desirable
 ```
 
 [PASTE HERE]
@@ -56,8 +76,23 @@ Paste the BEST output. Delete everything else.
 ## PINNED: VOCABULARY
 
 ```
-Source: AI-generated via Prompt Pack > Controlled Vocabulary prompt.
-Keep only the terms you will actually use. Kill the rest.
+Modernism
+
+Functionalism
+
+Grid system
+
+Sans-serif typography
+
+Asymmetrical layout
+
+Visual hierarchy
+
+Objectivity
+
+Postmodernism
+
+Experimental typography
 ```
 
 [PASTE HERE]
@@ -65,17 +100,19 @@ Keep only the terms you will actually use. Kill the rest.
 ## PINNED: CONFUSIONS AND BOUNDARIES
 
 ```
-Source: AI-generated via Prompt Pack > Confusions prompt.
-Pin the distinctions that surprised you or corrected you.
+Swiss Style is not just minimalism; it is a structured communication system built on rules and grids.
+
+Bauhaus is not a graphic design style alone; it is a broader philosophy that influenced many disciplines.
+
+New Wave Typography is not the same as Grunge; New Wave experiments with typography conceptually, while Grunge emphasizes texture and disorder.
+
+Lack of legibility in New Wave design is often intentional, not a failure of design.
 ```
-
-[PASTE HERE]
-
 ---
 
 ## DECISIONS
 
-| Decision | Your Answer |
+| Decision | New Wave Typography — chosen because it directly reacts to Swiss Style’s grid-based objectivity and clearly demonstrates a conceptual shift rather than just a visual trend. |
 |---|---|
 | Card 3 movement | [New Wave / Grunge — pick one, say why] |
 | Expert for critique | [Name — say why this expert for this card] |
@@ -83,9 +120,7 @@ Pin the distinctions that surprised you or corrected you.
 ## THINGS I CHANGED MY MIND ABOUT
 
 ```
-After research, what did you reverse on? If nothing, you were not
-paying attention or you already knew everything. Pick one.
-```
+I originally believed Swiss Style was mainly an aesthetic preference for cleanliness, but learned it was a disciplined system designed to remove personal expression from communication.
 
-1.
-2.
+I assumed experimental typography was careless or decorative; research showed that movements like New Wave used disruption intentionally to challenge cultural and design norms.
+```
