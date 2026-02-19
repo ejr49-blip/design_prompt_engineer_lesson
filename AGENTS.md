@@ -53,20 +53,20 @@ Use these terms. If a term is not on this list, define it before using it.
 | Term | Definition |
 |------|-----------|
 | Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Modernism | A design movement emphasizing rationality, function, and rejection of ornament |
+| Functionalism | Design philosophy prioritizing practical purpose over decoration |
+| Grid system | A structured layout framework used to organize visual elements |
+| Sans-serif typography | Typefaces without decorative strokes, emphasizing clarity |
+| Asymmetrical layout | Composition balanced without mirrored symmetry |
+| Visual hierarchy | Arrangement of elements to guide viewer attention |
+| Objectivity | Design approach minimizing personal expression in favor of neutrality |
+| Modular design | System built from repeatable, standardized units |
+| International Typographic Style | Another name for Swiss Style, emphasizing universal visual communication |
+| Legibility | Ease with which text can be read |
+| Postmodernism | Movement reacting against modernist order and neutrality |
+| Experimental typography | Typography used expressively beyond strict readability |
+| Deconstruction | Deliberate disruption of traditional layout or structure |
+| Typographic expression | Use of type as a visual and emotional element, not just text |
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
