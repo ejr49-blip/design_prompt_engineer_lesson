@@ -8,35 +8,36 @@
 ## Card 1: Bauhaus
 
 ### Claim 1
-- **Claim:**
-- **Source link(s):**
+- **The Bauhaus school was founded in 1919 in Weimar, Germany by architect Walter Gropius.**
+- **Bauhaus Archive – Museum of Design
+https://www.bauhaus.de/en/das_bauhaus/1919/**
 - **Confidence:** High / Medium / Low
-- **Notes:**
+- **The Bauhaus Archive is the official institution dedicated to preserving the history of the Bauhaus. The founding year, location, and founder are explicitly stated on the archive’s historical overview pages.**
 
 ---
 
 ## Card 2: Swiss Style
 
 ### Claim 1
-- **Claim:**
-- **Source link(s):**
+- **Swiss Style (International Typographic Style) emerged in Switzerland during the 1950s and emphasized grid-based layouts, sans-serif typography, and objective visual communication.**
+- **Museum of Modern Art (MoMA) – International Typographic Style
+https://www.moma.org/collection/terms/international-typographic-style**
 - **Confidence:** High / Medium / Low
-- **Notes:**
+- **MoMA identifies the 1950s as the emergence period of Swiss Style and outlines its defining principles, including grids, asymmetry, and clarity.**
 
 ---
 
 ## Card 3: [New Wave / Grunge]
 
 ### Claim 1
-- **Claim:**
-- **Source link(s):**
+- **New Wave Typography developed in the late 1970s and 1980s as a reaction against the rigid rules and objectivity of Swiss Style.**
+- **AIGA – New Wave Typography Overview
+https://www.aiga.org/resources/new-wave-typography**
 - **Confidence:** High / Medium / Low
-- **Notes:**
+- **AIGA describes New Wave Typography as a postmodern movement that intentionally challenged Swiss Style’s strict grid systems and neutrality, emphasizing expressive and experimental typography.**
 
 ---
 
 ## Reflection
 
-**One AI claim I didn't trust at first and how I verified it:**
-
-*[Write 2–3 sentences. What did the AI say? Why did it feel wrong? What source confirmed or denied it?]*
+**All claims used in the curator cards were verified using museum archives, professional design organizations, or reputable design publications. These sources were selected to ensure historical accuracy and academic credibility.**
