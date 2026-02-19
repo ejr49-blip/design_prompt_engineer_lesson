@@ -16,9 +16,9 @@
 Write bluntly. Wrong answers are fine. That is the point.
 ```
 
-1.
-2.
-3.
+1. Bauhaus
+2. Swiss Style
+3. New Wave Typography
 
 ## WHAT I DO NOT KNOW
 
@@ -27,9 +27,9 @@ What are you fuzzy on? What might be completely wrong?
 Be honest. Uncertainty is data.
 ```
 
-1.
-2.
-3.
+1. Exact founding year and founder
+2. Exact time period of peak influence
+3. Why designers rejected Swiss objectivity
 
 ## VOCABULARY I NEED BEFORE I CAN WRITE
 
@@ -38,9 +38,9 @@ List the domain terms you need to learn.
 If you cannot define it in one sentence, you do not know it yet.
 ```
 
-1.
-2.
-3.
+1. Asymmetry
+2. Functionalism
+3. Modernism
 
 ---
 
